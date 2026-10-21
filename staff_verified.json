@@ -1,0 +1,326 @@
+[
+  {
+    "serial": "01",
+    "name": "মোঃ হাবিবুর রহমান",
+    "id_code": "101326535",
+    "designation": "প্রধান সহকারী",
+    "department_or_role": null,
+    "mobile_number": "01780-674570",
+    "category": "Regular"
+  },
+  {
+    "serial": "02",
+    "name": "মোঃ আবু মুছা",
+    "id_code": "2016807912",
+    "designation": "ক্যাশিয়ার",
+    "department_or_role": null,
+    "mobile_number": "01736-732884",
+    "category": "Regular"
+  },
+  {
+    "serial": "03",
+    "name": "শাওন কুমার দাশ",
+    "id_code": "101769813",
+    "designation": "অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক",
+    "department_or_role": "আইসিটি বিভাগ",
+    "mobile_number": "01681-336816",
+    "category": "Regular"
+  },
+  {
+    "serial": "04",
+    "name": "মোঃ মমতাজ আলী",
+    "id_code": "101331784",
+    "designation": "অফিস সহায়ক",
+    "department_or_role": "নৈশ প্রহরী",
+    "mobile_number": "01745-078728",
+    "category": "Regular"
+  },
+  {
+    "serial": "05",
+    "name": "মোঃ কায়েম উদ্দিন",
+    "id_code": "101331964",
+    "designation": "অফিস সহায়ক",
+    "department_or_role": "শিক্ষক মিলনায়তন, শ্রেণি কক্ষ খোলা ও বন্ধের দায়িত্ব",
+    "mobile_number": "01937-326958",
+    "category": "Regular"
+  },
+  {
+    "serial": "06",
+    "name": "মোছাঃ নুরজাহান পারভীন",
+    "id_code": "101332022",
+    "designation": "অফিস সহায়ক",
+    "department_or_role": "গণিত বিভাগ",
+    "mobile_number": "01763-932011",
+    "category": "Regular"
+  },
+  {
+    "serial": "07",
+    "name": "মোঃ ইউনুছ আলী",
+    "id_code": "101331926",
+    "designation": "অফিস সহায়ক",
+    "department_or_role": "লাইব্রেরি",
+    "mobile_number": "01745-078771",
+    "category": "Regular"
+  },
+  {
+    "serial": "08",
+    "name": "মোঃ ইয়ামিন হোসেন",
+    "id_code": "101798710",
+    "designation": "অফিস সহায়ক",
+    "department_or_role": "ক্যাশ শাখা ও স্টোর শাখার অতিরিক্ত দায়িত্ব",
+    "mobile_number": "01775-227200",
+    "category": "Regular"
+  },
+  {
+    "serial": "09",
+    "name": "গৌতম কুমার দাস",
+    "id_code": "101798602",
+    "designation": "অফিস সহায়ক",
+    "department_or_role": "প্রধান সহকারীর কক্ষ",
+    "mobile_number": "01737-124676",
+    "category": "Regular"
+  },
+  {
+    "serial": "10",
+    "name": "মোঃ এহসানুল হক",
+    "id_code": "101798844",
+    "designation": "অফিস সহায়ক",
+    "department_or_role": "প্রাণিবিদ্যা বিভাগ",
+    "mobile_number": "01700-621146",
+    "category": "Regular"
+  },
+  {
+    "serial": "11",
+    "name": "মোঃ সাদ্দাম হোসেন",
+    "id_code": "101798536",
+    "designation": "অফিস সহায়ক",
+    "department_or_role": "পদার্থবিদ্যা বিভাগ",
+    "mobile_number": "01740-582142",
+    "category": "Regular"
+  },
+  {
+    "serial": "12",
+    "name": "দুলিয়া বাঁশফোর",
+    "id_code": "101332068",
+    "designation": "পরিচ্ছন্ন কর্মী",
+    "department_or_role": null,
+    "mobile_number": "01773-963697",
+    "category": "Regular"
+  },
+  {
+    "serial": "13",
+    "name": "শাহনাজ পারভীন",
+    "id_code": null,
+    "designation": "ক্যাশিয়ার",
+    "department_or_role": "সহযোগী",
+    "mobile_number": "01718-339548",
+    "category": "Master Roll"
+  },
+  {
+    "serial": "14",
+    "name": "মোছাঃ আছিয়া খাতুন",
+    "id_code": null,
+    "designation": "অফিস সহকারী",
+    "department_or_role": "লাইব্রেরিয়ান",
+    "mobile_number": "01731-789829",
+    "category": "Master Roll"
+  },
+  {
+    "serial": "15",
+    "name": "মোঃ আশিকুজ্জামান",
+    "id_code": null,
+    "designation": "অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক",
+    "department_or_role": null,
+    "mobile_number": "01779-975098",
+    "category": "Master Roll"
+  },
+  {
+    "serial": "16",
+    "name": "মোঃ নান্নু মিয়া",
+    "id_code": null,
+    "designation": "অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক",
+    "department_or_role": "ইতিহাস বিভাগ",
+    "mobile_number": "01761-535782",
+    "category": "Master Roll"
+  },
+  {
+    "serial": "17",
+    "name": "মোঃ শামছুল হক",
+    "id_code": null,
+    "designation": "অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক",
+    "department_or_role": "বাগান পরিচর্যা কর্মী",
+    "mobile_number": "01706-006554",
+    "category": "Master Roll"
+  },
+  {
+    "serial": "18",
+    "name": "মোঃ সানোয়ার হোসেন",
+    "id_code": null,
+    "designation": "অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক",
+    "department_or_role": "উদ্ভিদবিদ্যা বিভাগ",
+    "mobile_number": "01723-627555",
+    "category": "Master Roll"
+  },
+  {
+    "serial": "19",
+    "name": "মোঃ স্বপন আলী",
+    "id_code": null,
+    "designation": "অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক",
+    "department_or_role": "উপাধ্যক্ষের দপ্তর ও ডে-গার্ড মহিলা ছাত্রীনিবাস",
+    "mobile_number": "01746-907912",
+    "category": "Master Roll"
+  },
+  {
+    "serial": "20",
+    "name": "মোঃ আব্দুর রকিব",
+    "id_code": null,
+    "designation": "অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক",
+    "department_or_role": "রসায়ন বিভাগ",
+    "mobile_number": "01740-802436",
+    "category": "Master Roll"
+  },
+  {
+    "serial": "21",
+    "name": "নীল কমল ঘোষ",
+    "id_code": null,
+    "designation": "অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক",
+    "department_or_role": "পশ্চিম গেট",
+    "mobile_number": "01756-905193",
+    "category": "Master Roll"
+  },
+  {
+    "serial": "22",
+    "name": "মোঃ মোবারক আলী",
+    "id_code": null,
+    "designation": "অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক",
+    "department_or_role": "রাষ্ট্রবিজ্ঞান বিভাগ",
+    "mobile_number": "01672-065800",
+    "category": "Master Roll"
+  },
+  {
+    "serial": "23",
+    "name": "মোঃ জসিম উদ্দিন",
+    "id_code": null,
+    "designation": "অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক",
+    "department_or_role": "বাংলা বিভাগ",
+    "mobile_number": "01794-234585",
+    "category": "Master Roll"
+  },
+  {
+    "serial": "24",
+    "name": "মোঃ রফিকুল ইসলাম",
+    "id_code": null,
+    "designation": "অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক",
+    "department_or_role": "বাগান পরিচ্ছন্নতা কর্মী",
+    "mobile_number": "01748-190441",
+    "category": "Master Roll"
+  },
+  {
+    "serial": "25",
+    "name": "মোঃ লুৎফর রহমান",
+    "id_code": null,
+    "designation": "অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক",
+    "department_or_role": "অধ্যক্ষের দপ্তর",
+    "mobile_number": "01836-083586",
+    "category": "Master Roll"
+  },
+  {
+    "serial": "26",
+    "name": "মোঃ আলম মোল্লা",
+    "id_code": null,
+    "designation": "নৈশ প্রহরী",
+    "department_or_role": "কলেজ ক্যাম্পাস ও মহিলা ছাত্রীনিবাস",
+    "mobile_number": "01799-881884",
+    "category": "Master Roll"
+  },
+  {
+    "serial": "27",
+    "name": "মোঃ ফারাবী হোসেন",
+    "id_code": null,
+    "designation": "অফিস সহায়ক",
+    "department_or_role": "হিসাববিজ্ঞান বিভাগ",
+    "mobile_number": "01308-317101",
+    "category": "Master Roll"
+  },
+  {
+    "serial": "28",
+    "name": "মোঃ রাশিদুল ইসলাম",
+    "id_code": null,
+    "designation": "অফিস সহায়ক",
+    "department_or_role": "ব্যবস্থাপনা বিভাগ",
+    "mobile_number": "01867-603146",
+    "category": "Master Roll"
+  },
+  {
+    "serial": "29",
+    "name": "মোঃ মাসুদ রানা",
+    "id_code": null,
+    "designation": "অফিস সহায়ক",
+    "department_or_role": "অর্থনীতি বিভাগ",
+    "mobile_number": "01717-451977",
+    "category": "Master Roll"
+  },
+  {
+    "serial": "30",
+    "name": "মোঃ রজব আলী",
+    "id_code": null,
+    "designation": "অফিস সহায়ক",
+    "department_or_role": "অধ্যক্ষের দপ্তর",
+    "mobile_number": "01798-922792",
+    "category": "Master Roll"
+  },
+  {
+    "serial": "31",
+    "name": "মোছাঃ রুবি খাতুন",
+    "id_code": null,
+    "designation": "অফিস সহায়ক",
+    "department_or_role": "মহিলা কমনরুম",
+    "mobile_number": "01767-005578",
+    "category": "Master Roll"
+  },
+  {
+    "serial": "32",
+    "name": "মোঃ আব্দুল হামিদ",
+    "id_code": null,
+    "designation": "অফিস সহায়ক",
+    "department_or_role": "দক্ষিণ গেট ও কলেজ জামে মসজিদ",
+    "mobile_number": "01718-840542",
+    "category": "Master Roll"
+  },
+  {
+    "serial": "33",
+    "name": "সুমি খাতুন",
+    "id_code": null,
+    "designation": "অফিস সহায়ক",
+    "department_or_role": "মহিলা কমনরুম",
+    "mobile_number": "01757-907747",
+    "category": "Master Roll"
+  },
+  {
+    "serial": "34",
+    "name": "শুভ বাশফোর",
+    "id_code": null,
+    "designation": "পরিচ্ছন্ন কর্মী",
+    "department_or_role": null,
+    "mobile_number": "01326-900387",
+    "category": "Master Roll"
+  },
+  {
+    "serial": "01",
+    "name": "জনাব মোঃ গোলাম মোস্তফা",
+    "id_code": null,
+    "designation": "ইমাম",
+    "department_or_role": "কলেজ জামে মসজিদ",
+    "mobile_number": "01725-744318",
+    "category": "College Mosque"
+  },
+  {
+    "serial": "02",
+    "name": "জনাব মোঃ মিজানুর রহমান",
+    "id_code": null,
+    "designation": "মোয়াজ্জিন",
+    "department_or_role": "কলেজ জামে মসজিদ",
+    "mobile_number": "01729-898547",
+    "category": "College Mosque"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Shahzadpur Government College | শাহজাদপুর সরকারি কলেজ",
+  "description": "Official website of Shahzadpur Government College, Shahzadpur, Sirajganj, Bangladesh. Established in 1964. Academic programs, faculty directory, notice board, and student services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,417 @@
+import type { StaffMember } from '../types/index.ts';
+
+export const STAFF_MEMBERS: StaffMember[] = [
+  // Regular Cadre Staff (12 members)
+  {
+    serial: '০১',
+    name: 'মোঃ হাবিবুর রহমান',
+    nameEn: 'Md. Habibur Rahman',
+    id_code: '101326535',
+    designation: 'প্রধান সহকারী',
+    designationEn: 'Head Assistant',
+    department_or_role: 'প্রশাসনিক শাখা',
+    department_or_roleEn: 'Administrative Branch',
+    mobile_number: '01780-674570',
+    category: 'Regular'
+  },
+  {
+    serial: '০২',
+    name: 'মোঃ আবু মুছা',
+    nameEn: 'Md. Abu Musa',
+    id_code: '2016807912',
+    designation: 'ক্যাশিয়ার',
+    designationEn: 'Cashier',
+    department_or_role: 'হিসাব শাখা',
+    department_or_roleEn: 'Accounts Section',
+    mobile_number: '01736-732884',
+    category: 'Regular'
+  },
+  {
+    serial: '০৩',
+    name: 'শাওন কুমার দাস',
+    nameEn: 'Shaon Kumar Das',
+    id_code: '101769813',
+    designation: 'অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক',
+    designationEn: 'Office Assistant-cum-Computer Typist',
+    department_or_role: 'আইসিটি বিভাগ',
+    department_or_roleEn: 'ICT Department',
+    mobile_number: '01681-336816',
+    category: 'Regular'
+  },
+  {
+    serial: '০৪',
+    name: 'মোঃ মমতাজ আলী',
+    nameEn: 'Md. Momtaz Ali',
+    id_code: '101331784',
+    designation: 'অফিস সহায়ক',
+    designationEn: 'Office Assistant / Peon',
+    department_or_role: 'নৈশ প্রহরী',
+    department_or_roleEn: 'Night Watch & Security',
+    mobile_number: '01745-078728',
+    category: 'Regular'
+  },
+  {
+    serial: '০৫',
+    name: 'মোঃ কায়েম উদ্দিন',
+    nameEn: 'Md. Kayem Uddin',
+    id_code: '101331964',
+    designation: 'অফিস সহায়ক',
+    designationEn: 'Office Assistant / Peon',
+    department_or_role: 'শিক্ষক মিলনায়তন, শ্রেণি কক্ষ খোলা ও বন্ধের দায়িত্ব',
+    department_or_roleEn: 'Teachers Lounge & Classroom Custodian',
+    mobile_number: '01937-326958',
+    category: 'Regular'
+  },
+  {
+    serial: '০৬',
+    name: 'মোছাঃ নুরজাহান পারভীন',
+    nameEn: 'Mst. Nurjahan Parvin',
+    id_code: '101332022',
+    designation: 'অফিস সহায়ক',
+    designationEn: 'Office Assistant / Peon',
+    department_or_role: 'গণিত বিভাগ',
+    department_or_roleEn: 'Mathematics Department',
+    mobile_number: '01763-932011',
+    category: 'Regular'
+  },
+  {
+    serial: '০৭',
+    name: 'মোঃ ইউনুছ আলী',
+    nameEn: 'Md. Yunus Ali',
+    id_code: '101331926',
+    designation: 'অফিস সহায়ক',
+    designationEn: 'Office Assistant / Peon',
+    department_or_role: 'লাইব্রেরি',
+    department_or_roleEn: 'Central Library',
+    mobile_number: '01745-078771',
+    category: 'Regular'
+  },
+  {
+    serial: '০৮',
+    name: 'মোঃ ইয়ামিন হোসেন',
+    nameEn: 'Md. Yamin Hossain',
+    id_code: '101798710',
+    designation: 'অফিস সহায়ক',
+    designationEn: 'Office Assistant / Peon',
+    department_or_role: 'ক্যাশ শাখা ও স্টোর শাখার অতিরিক্ত দায়িত্ব',
+    department_or_roleEn: 'Cash & Store Inventory Duties',
+    mobile_number: '01775-227200',
+    category: 'Regular'
+  },
+  {
+    serial: '০৯',
+    name: 'গৌতম কুমার দাস',
+    nameEn: 'Goutam Kumar Das',
+    id_code: '101798602',
+    designation: 'অফিস সহায়ক',
+    designationEn: 'Office Assistant / Peon',
+    department_or_role: 'প্রধান সহকারীর কক্ষ',
+    department_or_roleEn: 'Head Assistant Chamber',
+    mobile_number: '01737-124676',
+    category: 'Regular'
+  },
+  {
+    serial: '১০',
+    name: 'মোঃ এহসানুল হক',
+    nameEn: 'Md. Ehsanul Haque',
+    id_code: '101798844',
+    designation: 'অফিস সহায়ক',
+    designationEn: 'Office Assistant / Peon',
+    department_or_role: 'প্রাণিবিদ্যা বিভাগ',
+    department_or_roleEn: 'Zoology Department',
+    mobile_number: '01700-621146',
+    category: 'Regular'
+  },
+  {
+    serial: '১১',
+    name: 'মোঃ সাদ্দাম হোসেন',
+    nameEn: 'Md. Saddam Hossain',
+    id_code: '101798536',
+    designation: 'অফিস সহায়ক',
+    designationEn: 'Office Assistant / Peon',
+    department_or_role: 'পদার্থবিদ্যা বিভাগ',
+    department_or_roleEn: 'Physics Department',
+    mobile_number: '01740-582142',
+    category: 'Regular'
+  },
+  {
+    serial: '১২',
+    name: 'দুলিয়া বাঁশফোর',
+    nameEn: 'Dulia Bashfor',
+    id_code: '101332068',
+    designation: 'পরিচ্ছন্ন কর্মী',
+    designationEn: 'Sanitation & Cleaning Staff',
+    department_or_role: 'ক্যাম্পাস পরিচ্ছন্নতা',
+    department_or_roleEn: 'Campus Sanitation',
+    mobile_number: '01773-963697',
+    category: 'Regular'
+  },
+
+  // Master Roll Staff (22 members)
+  {
+    serial: '১৩',
+    name: 'শাহনাজ পারভীন',
+    nameEn: 'Shahnaz Parvin',
+    designation: 'ক্যাশিয়ার (সহযোগী)',
+    designationEn: 'Associate Cashier',
+    department_or_role: 'ক্যাশ শাখা',
+    department_or_roleEn: 'Cash Section',
+    mobile_number: '01718-339548',
+    category: 'Master Roll'
+  },
+  {
+    serial: '১৪',
+    name: 'মোছাঃ আছিয়া খাতুন',
+    nameEn: 'Mst. Asiya Khatun',
+    designation: 'অফিস সহকারী',
+    designationEn: 'Office Assistant',
+    department_or_role: 'লাইব্রেরিয়ান শাখা',
+    department_or_roleEn: 'Library Wing',
+    mobile_number: '01731-789829',
+    category: 'Master Roll'
+  },
+  {
+    serial: '১৫',
+    name: 'মোঃ আশিকুজ্জামান',
+    nameEn: 'Md. Ashikuzzaman',
+    designation: 'অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক',
+    designationEn: 'Office Assistant-cum-Computer Typist',
+    department_or_role: 'কম্পিউটার শাখা',
+    department_or_roleEn: 'Computer Lab Section',
+    mobile_number: '01779-975098',
+    category: 'Master Roll'
+  },
+  {
+    serial: '১৬',
+    name: 'মোঃ নান্নু মিয়া',
+    nameEn: 'Md. Nannu Miah',
+    designation: 'অফিস সহকারী',
+    designationEn: 'Office Assistant',
+    department_or_role: 'ইতিহাস বিভাগ',
+    department_or_roleEn: 'History Department',
+    mobile_number: '01761-535782',
+    category: 'Master Roll'
+  },
+  {
+    serial: '১৭',
+    name: 'মোঃ শামছুল হক',
+    nameEn: 'Md. Shamsul Haque',
+    designation: 'অফিস সহকারী',
+    designationEn: 'Office Assistant',
+    department_or_role: 'বাগান পরিচর্যা কর্মী',
+    department_or_roleEn: 'Garden Caretaker',
+    mobile_number: '01706-006554',
+    category: 'Master Roll'
+  },
+  {
+    serial: '১৮',
+    name: 'মোঃ সানোয়ার হোসেন',
+    nameEn: 'Md. Sanowar Hossain',
+    designation: 'অফিস সহকারী',
+    designationEn: 'Office Assistant',
+    department_or_role: 'উদ্ভিদবিদ্যা বিভাগ',
+    department_or_roleEn: 'Botany Department',
+    mobile_number: '01723-627555',
+    category: 'Master Roll'
+  },
+  {
+    serial: '১৯',
+    name: 'মোঃ স্বপন আলী',
+    nameEn: 'Md. Swapon Ali',
+    designation: 'অফিস সহায়ক',
+    designationEn: 'Office Assistant / Peon',
+    department_or_role: 'উপাধ্যক্ষের দপ্তর ও ডে-গার্ড মহিলা ছাত্রীনিবাস',
+    department_or_roleEn: 'Vice Principal Office & Girls Hostel Day Guard',
+    mobile_number: '01746-907912',
+    category: 'Master Roll'
+  },
+  {
+    serial: '২০',
+    name: 'মোঃ আব্দুর রকিব',
+    nameEn: 'Md. Abdur Rokib',
+    designation: 'অফিস সহায়ক',
+    designationEn: 'Office Assistant / Peon',
+    department_or_role: 'রসায়ন বিভাগ',
+    department_or_roleEn: 'Chemistry Department',
+    mobile_number: '01740-802436',
+    category: 'Master Roll'
+  },
+  {
+    serial: '২১',
+    name: 'নীল কমল ঘোষ',
+    nameEn: 'Nil Komol Ghosh',
+    designation: 'অফিস সহায়ক',
+    designationEn: 'Office Assistant / Peon',
+    department_or_role: 'পশ্চিম গেট নিরাপত্তা',
+    department_or_roleEn: 'West Gate Security',
+    mobile_number: '01756-905193',
+    category: 'Master Roll'
+  },
+  {
+    serial: '২২',
+    name: 'মোঃ মোবারক আলী',
+    nameEn: 'Md. Mobarak Ali',
+    designation: 'অফিস সহায়ক',
+    designationEn: 'Office Assistant / Peon',
+    department_or_role: 'রাষ্ট্রবিজ্ঞান বিভাগ',
+    department_or_roleEn: 'Political Science Department',
+    mobile_number: '01672-065800',
+    category: 'Master Roll'
+  },
+  {
+    serial: '২৩',
+    name: 'মোঃ জসিম উদ্দিন',
+    nameEn: 'Md. Jasim Uddin',
+    designation: 'অফিস সহায়ক',
+    designationEn: 'Office Assistant / Peon',
+    department_or_role: 'বাংলা বিভাগ',
+    department_or_roleEn: 'Bengali Department',
+    mobile_number: '01794-234585',
+    category: 'Master Roll'
+  },
+  {
+    serial: '২৪',
+    name: 'মোঃ রফিকুল ইসলাম',
+    nameEn: 'Md. Rafiqul Islam',
+    designation: 'বাগান পরিচ্ছন্নতা কর্মী',
+    designationEn: 'Campus Gardener & Groundskeeper',
+    department_or_role: 'ক্যাম্পাস চত্বর',
+    department_or_roleEn: 'Campus Gardens & Courtyard',
+    mobile_number: '01748-190441',
+    category: 'Master Roll'
+  },
+  {
+    serial: '২৫',
+    name: 'মোঃ লুৎফর রহমান',
+    nameEn: 'Md. Lutfar Rahman',
+    designation: 'অফিস সহায়ক',
+    designationEn: 'Office Assistant / Peon',
+    department_or_role: 'অধ্যক্ষের দপ্তর',
+    department_or_roleEn: 'Principal Office',
+    mobile_number: '01836-083586',
+    category: 'Master Roll'
+  },
+  {
+    serial: '২৬',
+    name: 'মোঃ আলম মোল্লা',
+    nameEn: 'Md. Alam Molla',
+    designation: 'নৈশ প্রহরী',
+    designationEn: 'Night Guard / Security',
+    department_or_role: 'কলেজ ক্যাম্পাস ও মহিলা ছাত্রীনিবাস',
+    department_or_roleEn: 'College Campus & Girls Hostel',
+    mobile_number: '01799-881884',
+    category: 'Master Roll'
+  },
+  {
+    serial: '২৭',
+    name: 'মোঃ ফারাবী হোসেন',
+    nameEn: 'Md. Farabi Hossain',
+    designation: 'অফিস সহায়ক',
+    designationEn: 'Office Assistant / Peon',
+    department_or_role: 'হিসাববিজ্ঞান বিভাগ',
+    department_or_roleEn: 'Accounting Department',
+    mobile_number: '01308-317101',
+    category: 'Master Roll'
+  },
+  {
+    serial: '২৮',
+    name: 'মোঃ রাশিদুল ইসলাম',
+    nameEn: 'Md. Rashidul Islam',
+    designation: 'অফিস সহায়ক',
+    designationEn: 'Office Assistant / Peon',
+    department_or_role: 'ব্যবস্থাপনা বিভাগ',
+    department_or_roleEn: 'Management Department',
+    mobile_number: '01867-603146',
+    category: 'Master Roll'
+  },
+  {
+    serial: '২৯',
+    name: 'মোঃ মাসুদ রানা',
+    nameEn: 'Md. Masud Rana',
+    designation: 'অফিস সহায়ক',
+    designationEn: 'Office Assistant / Peon',
+    department_or_role: 'অর্থনীতি বিভাগ',
+    department_or_roleEn: 'Economics Department',
+    mobile_number: '01717-451977',
+    category: 'Master Roll'
+  },
+  {
+    serial: '৩০',
+    name: 'মোঃ রজব আলী',
+    nameEn: 'Md. Rajab Ali',
+    designation: 'অফিস সহায়ক',
+    designationEn: 'Office Assistant / Peon',
+    department_or_role: 'অধ্যক্ষের দপ্তর',
+    department_or_roleEn: 'Principal Office',
+    mobile_number: '01798-922792',
+    category: 'Master Roll'
+  },
+  {
+    serial: '৩১',
+    name: 'মোছাঃ রুবি খাতুন',
+    nameEn: 'Mst. Rubi Khatun',
+    designation: 'অফিস সহায়ক',
+    designationEn: 'Office Assistant / Attendant',
+    department_or_role: 'মহিলা কমনরুম',
+    department_or_roleEn: 'Girls Common Room',
+    mobile_number: '01767-005578',
+    category: 'Master Roll'
+  },
+  {
+    serial: '৩২',
+    name: 'মোঃ আব্দুল হামিদ',
+    nameEn: 'Md. Abdul Hamid',
+    designation: 'অফিস সহায়ক',
+    designationEn: 'Office Assistant / Attendant',
+    department_or_role: 'দক্ষিণ গেট ও কলেজ জামে মসজিদ',
+    department_or_roleEn: 'South Gate & College Mosque',
+    mobile_number: '01718-840542',
+    category: 'Master Roll'
+  },
+  {
+    serial: '৩৩',
+    name: 'সুমি খাতুন',
+    nameEn: 'Sumi Khatun',
+    designation: 'অফিস সহায়ক',
+    designationEn: 'Office Assistant / Attendant',
+    department_or_role: 'মহিলা কমনরুম',
+    department_or_roleEn: 'Girls Common Room',
+    mobile_number: '01757-907747',
+    category: 'Master Roll'
+  },
+  {
+    serial: '৩৪',
+    name: 'শুভ বাঁশফোর',
+    nameEn: 'Shuvo Bashfor',
+    designation: 'পরিচ্ছন্ন কর্মী',
+    designationEn: 'Sanitation & Cleaning Staff',
+    department_or_role: 'ক্যাম্পাস পরিচ্ছন্নতা',
+    department_or_roleEn: 'Campus Sanitation',
+    mobile_number: '01326-900387',
+    category: 'Master Roll'
+  },
+
+  // College Mosque (2 members)
+  {
+    serial: '৩৫',
+    name: 'জনাব মোঃ গোলাম মোস্তফা',
+    nameEn: 'Md. Golam Mostafa',
+    designation: 'ইমাম',
+    designationEn: 'Imam',
+    department_or_role: 'কলেজ জামে মসজিদ',
+    department_or_roleEn: 'College Central Mosque',
+    mobile_number: '01725-744318',
+    category: 'College Mosque'
+  },
+  {
+    serial: '৩৬',
+    name: 'মোঃ মিজানুর রহমান',
+    nameEn: 'Md. Mizanur Rahman',
+    designation: 'মোয়াজ্জিন',
+    designationEn: 'Muezzin',
+    department_or_role: 'কলেজ জামে মসজিদ',
+    department_or_roleEn: 'College Central Mosque',
+    mobile_number: '01729-898547',
+    category: 'College Mosque'
+  }
+];

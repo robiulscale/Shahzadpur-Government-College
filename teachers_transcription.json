@@ -1,0 +1,347 @@
+```json
+{
+  "institution_info": {
+    "organization": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+    "office": "অধ্যক্ষের কার্যালয়",
+    "college_name": "শাহজাদপুর সরকারি কলেজ",
+    "location": "শাহজাদপুর, সিরাজগঞ্জ",
+    "website": "www.shgc.edu.bd",
+    "email": "shahzadpur.govt.college@gmail.com",
+    "hsc_code": "৩৪৫০",
+    "nu_code": "২২১৪",
+    "telephone": "০২৫৮৮৮৩৩৭৪৮ / ০২৫৮৮৮৩৩৫৮৩"
+  },
+  "administration": [
+    {
+      "name": "প্রফেসর মোঃ আব্দুর রাজ্জাক",
+      "id_code": "০০০১৫৫৭৬",
+      "designation": "অধ্যক্ষ",
+      "department": "গণিত",
+      "mobile_number": "০১৭১৮-৩৭২৯৯৬",
+      "email": "razzaque015576@gmail.com",
+      "notes": ""
+    },
+    {
+      "name": "প্রফেসর মোহাম্মদ ইয়াছিন আলী",
+      "id_code": "০০০০৮৯৪৬",
+      "designation": "উপাধ্যক্ষ",
+      "department": "উদ্ভিদবিজ্ঞান",
+      "mobile_number": "০১৭১৬-৬৮৮৭৭৯",
+      "email": "eyasin101068@gmail.com",
+      "notes": ""
+    }
+  ],
+  "teachers": [
+    {
+      "serial": "০১",
+      "name": "ড. মোঃ রফিকুল ইসলাম",
+      "id_code": "০১৫৫০৭",
+      "designation": "অধ্যাপক",
+      "department": "উদ্ভিদবিদ্যা",
+      "mobile_number": "০১৭১৩-৪৩৬৩১৪",
+      "email": "mrislambotru@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "০২",
+      "name": "জনাব মোঃ কামাল পাশা",
+      "id_code": "০১৬৬২৬",
+      "designation": "অধ্যাপক",
+      "department": "অর্থনীতি",
+      "mobile_number": "০১৭১৬-৬৯৩৫২০",
+      "email": "pmdkamal374@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "০৩",
+      "name": "ড. মোঃ বাহারুল ইসলাম",
+      "id_code": "০১৫৩৮৪",
+      "designation": "সহযোগী অধ্যাপক",
+      "department": "উদ্ভিদবিদ্যা",
+      "mobile_number": "০১৭১৬-৬১৮৬৭৮",
+      "email": "baharbt304@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "০৪",
+      "name": "জনাব মোঃ মাহবুবুর রহমান মিলন",
+      "id_code": "০১৬২১৬",
+      "designation": "সহযোগী অধ্যাপক",
+      "department": "রাষ্ট্রবিজ্ঞান",
+      "mobile_number": "০১৭১২-০৩৬৯৪৬",
+      "email": "milonsgc77@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "০৫",
+      "name": "মোঃ রায়হান আলী সরকার",
+      "id_code": "০১৬৪৩১",
+      "designation": "সহযোগী অধ্যাপক",
+      "department": "রসায়ন",
+      "mobile_number": "০১৭১৬-৮৯৬৩৩৪",
+      "email": "romimraihan@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "০৬",
+      "name": "মোঃ আসমত আলী",
+      "id_code": "০১৬২১১",
+      "designation": "সহযোগী অধ্যাপক",
+      "department": "ইতিহাস",
+      "mobile_number": "০১৭১২-২২১৬২২",
+      "email": "asmotrana@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "০৭",
+      "name": "মোঃ হাফিজুর রহমান",
+      "id_code": "০১৬১৯৬",
+      "designation": "সহযোগী অধ্যাপক",
+      "department": "গণিত",
+      "mobile_number": "০১৭১৪-৫৪৭৭০৫",
+      "email": "hafiz101280@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "০৮",
+      "name": "এ এইচ এম মাসুম",
+      "id_code": "০১৭৭৩৪",
+      "designation": "সহযোগী অধ্যাপক",
+      "department": "প্রাণিবিদ্যা",
+      "mobile_number": "০১৭৩১-১০১৯০৯",
+      "email": "ahmmasum@yahoo.com",
+      "notes": ""
+    },
+    {
+      "serial": "০৯",
+      "name": "জনাব ফাহিমা ইয়াছমিন লিলি",
+      "id_code": "২৪৯৩৪",
+      "designation": "সহকারী অধ্যাপক",
+      "department": "বাংলা",
+      "mobile_number": "০১৯২৬-০৪৯৮৩০",
+      "email": "rahima.shahjaclpurgov.college@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "১০",
+      "name": "এম,এম, শরিফ উল্লাহ",
+      "id_code": "০২৪৬৭৯",
+      "designation": "সহকারী অধ্যাপক",
+      "department": "হিসাববিজ্ঞান",
+      "mobile_number": "০১৭২৬-৭৯২৩৮০",
+      "email": "m.sharifullah08@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "১১",
+      "name": "চৈতী বসাক",
+      "id_code": "২৫৭৬৯",
+      "designation": "সহকারী অধ্যাপক",
+      "department": "ইতিহাস",
+      "mobile_number": "০১৭২৩-৬০৫৭৯১",
+      "email": "choitybasak.ru1989@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "১২",
+      "name": "মোঃ কিরামত আলী",
+      "id_code": "১৭১৩৫১০৮০০৫",
+      "designation": "সহকারী অধ্যাপক",
+      "department": "ইসলামের ইতিহাস ও সংস্কৃতি",
+      "mobile_number": "০১৭৬০-৯৩৯৪৮৪",
+      "email": "kali.du.005@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "১৩",
+      "name": "মোঃ ইয়াহিয়া",
+      "id_code": "১৭১৩৫১০৯০৭৬",
+      "designation": "সহকারী অধ্যাপক",
+      "department": "ইংরেজি",
+      "mobile_number": "০১৯২০১৪০০৮০",
+      "email": "myahia101@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "১৪",
+      "name": "জনাব সিরাজ খান",
+      "id_code": "২৫১২৭১৩৪০৩৯",
+      "designation": "প্রভাষক",
+      "department": "ব্যবস্থাপনা",
+      "mobile_number": "০১৭১৬-১৯৪৭৩১",
+      "email": "seraz.khan80@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "১৫",
+      "name": "মোঃ আলমাছ আলী",
+      "id_code": "২৬১৯১",
+      "designation": "প্রভাষক",
+      "department": "গণিত",
+      "mobile_number": "০১৭১৮-৬৫৫২২৯",
+      "email": "almas33bcs@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "১৬",
+      "name": "শামীমা সাইফ",
+      "id_code": "১৮১৩৬১৪২০৩৬",
+      "designation": "প্রভাষক",
+      "department": "রাষ্ট্রবিজ্ঞান",
+      "mobile_number": "০১৭৭৬-০০৯০৯০",
+      "email": "shamimajimmy210@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "১৭",
+      "name": "মোছাঃ তহমিনা খাতুন",
+      "id_code": "২১১৩৮১২৫০০৭",
+      "designation": "প্রভাষক",
+      "department": "দর্শন",
+      "mobile_number": "০১৬৮১-৮৭৫৪৬৫",
+      "email": "tahmina.eti1991@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "১৮",
+      "name": "মোঃ রুহুল আমিন",
+      "id_code": "২২১৪০১৪১০০১",
+      "designation": "প্রভাষক",
+      "department": "রসায়ন",
+      "mobile_number": "০১৯২৯-৪৫৮৮৬০",
+      "email": "ruhul0035@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "১৯",
+      "name": "মুকুল হোসেন",
+      "id_code": "২২১৪০১৩৩০৫৩",
+      "designation": "প্রভাষক",
+      "department": "বাংলা",
+      "mobile_number": "০১৭৮৭-৭৩৯১৫১",
+      "email": "mukuldu40bcs@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "২০",
+      "name": "সৈয়দ তৌফিক-বিন-হাবিব",
+      "id_code": "২৪১৪১১০১০৫৪",
+      "designation": "প্রভাষক",
+      "department": "অর্থনীতি",
+      "mobile_number": "০১৭১১-৭৬২৮৩৫",
+      "email": "toufiq.ru41@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "২১",
+      "name": "নাজমুল ইসলাম",
+      "id_code": "২৪১৪১১০১০২৭",
+      "designation": "প্রভাষক",
+      "department": "প্রাণিবিদ্যা",
+      "mobile_number": "০১৭১৭-৪৩৩১০০",
+      "email": "nazmulislam91du@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "২২",
+      "name": "মোঃ ইলিয়াছ উদ্দিন",
+      "id_code": "২৪১৪১১০৮০০৩",
+      "designation": "প্রভাষক",
+      "department": "ইসলামের ইতিহাস ও সংস্কৃতি",
+      "mobile_number": "০১৭৩১-১৫৪১৬৮",
+      "email": "eleus.du@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "২৩",
+      "name": "মোঃ ইয়াছিন হোসেন",
+      "id_code": "২৪১৪১১০৪০১৬",
+      "designation": "প্রভাষক",
+      "department": "ব্যবস্থাপনা",
+      "mobile_number": "০১৬৮১-০৭৫৩৩২",
+      "email": "yasinhossaindu34@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "২৪",
+      "name": "মোঃ সোহাগ খান",
+      "id_code": "২৪১৪১১৯৯০১",
+      "designation": "প্রভাষক",
+      "department": "গণিত",
+      "mobile_number": "০১৭২১-৩৯৯৭১৮",
+      "email": "shohag105khan@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "২৫",
+      "name": "শারমিন সুলতানা",
+      "id_code": "২৪১৪১১১৩০২৫",
+      "designation": "প্রভাষক",
+      "department": "উদ্ভিদবিদ্যা",
+      "mobile_number": "০১৭৯৯-৭৪৪৮৮৬",
+      "email": "sharminsheema09@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "২৬",
+      "name": "মোঃ কুতুব উদ্দিন",
+      "id_code": "২৫১৪৩১৩১০৩০",
+      "designation": "প্রভাষক",
+      "department": "প্রাণিবিদ্যা",
+      "mobile_number": "০১৭৪৪-৬১৫৬৮০",
+      "email": "akutub2000@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "২৭",
+      "name": "নাজমুল হুদা",
+      "id_code": "২৫১৪৩১০১০৩৮",
+      "designation": "প্রভাষক",
+      "department": "অর্থনীতি",
+      "mobile_number": "০১৭২২-৯৩৩২৪৯",
+      "email": "nazmulhuda565456@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "২৮",
+      "name": "রবিউল ইসলাম",
+      "id_code": "২৫১৪৩১৪২০৩৩",
+      "designation": "প্রভাষক",
+      "department": "রাষ্ট্রবিজ্ঞান",
+      "mobile_number": "০১৬২৫-১২৫৩৫৮",
+      "email": "ri666203@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "২৯",
+      "name": "মোঃ আব্দুল কাদির",
+      "id_code": "২৫১৪৩১২৮০০৯",
+      "designation": "প্রভাষক",
+      "department": "পদার্থবিদ্যা",
+      "mobile_number": "০১৬০৭-৩৯৫৬৫৬",
+      "email": "mdabdulkadir04@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "৩০",
+      "name": "শরৎ কুমার বিশ্বাস",
+      "id_code": "",
+      "designation": "প্রভাষক",
+      "department": "বাংলা",
+      "mobile_number": "০১৭১১-১৩৬৯৯৮",
+      "email": "sharotbiswas143@gmail.com",
+      "notes": ""
+    },
+    {
+      "serial": "৩১",
+      "name": "মাসফিকা রহমান",
+      "id_code": "",
+      "designation": "প্রভাষক",
+      "department": "ইতিহাস",
+      "mobile_number": "০১৫২১-৪৭৮৮৩৮",
+      "email": "masfikarahman2013314295@gmail.com",
+      "notes": ""
+    }
+  ]
+}
+```
